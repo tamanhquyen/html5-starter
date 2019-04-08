@@ -1,0 +1,26 @@
+{
+  "name": "html5-starter",
+  "version": "1.0.0",
+  "description": "This is starter kit of front-end development",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamanhquyen/html5-starter.git"
+  },
+  "keywords": [
+    "html5",
+    "frontend",
+    "starterkit",
+    "webpack",
+    "autoreload"
+  ],
+  "author": "manhquyen.coder@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamanhquyen/html5-starter/issues"
+  },
+  "homepage": "https://github.com/tamanhquyen/html5-starter#readme"
+}
